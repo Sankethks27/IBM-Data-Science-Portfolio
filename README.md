@@ -315,9 +315,9 @@ This portfolio represents my personal learning journey through the IBM Data Scie
 ## 📧 **Contact**
 
 **Sanketh Ks**  
-- GitHub: [@Willie-Conway](https://github.com/Willie-Conway)
-- LinkedIn: [willieconway](https://www.linkedin.com/in/willieconway/)
-- Email: hire.willie.conway@gmail.com
+- GitHub: [@Sankethks27](https://github.com/Sankethks27)
+- LinkedIn: [Sanketh Ks](https://www.linkedin.com/in/sanketh-ks-181962273/)
+- Email: sankethks27@gmail.com
 
 ---
 
