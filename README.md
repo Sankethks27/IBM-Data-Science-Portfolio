@@ -231,24 +231,6 @@ IBM-Data-Science-Portfolio/
 - SQLite/MySQL
 - Required Python packages (install via requirements.txt)
 
-### Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/IBM-Data-Science-Portfolio.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd IBM-Data-Science-Portfolio
-   ```
-3. Install required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
 ### Requirements
 Key packages include:
 - pandas, numpy
@@ -330,17 +312,12 @@ Key packages include:
 
 This portfolio represents my personal learning journey through the IBM Data Science Professional Certificate. While this is primarily a showcase of my work, I welcome discussions, feedback, and collaborations on data science projects.
 
-## 📄 **License**
-
-This project is for portfolio purposes and contains educational materials from the IBM Data Science Professional Certificate. The code implementations are my own work.
-
 ## 📧 **Contact**
 
-**Willie Conway**  
+**Sanketh Ks**  
 - GitHub: [@Willie-Conway](https://github.com/Willie-Conway)
 - LinkedIn: [willieconway](https://www.linkedin.com/in/willieconway/)
 - Email: hire.willie.conway@gmail.com
-- Portfolio: [Portfolio](https://willie-conway.github.io/Portfolio.io/)
 
 ---
 
@@ -348,5 +325,3 @@ This project is for portfolio purposes and contains educational materials from t
 
 ---
 
-**Last Updated**: January 2026  
-**Status**: 🟢 Portfolio Complete | 🔄 Continuously Updated with New Projects
