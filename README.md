@@ -219,6 +219,8 @@ IBM-Data-Science-Portfolio/
 │
 └── 📁 Generative AI - Elevate Your Data Science Career/
     └── 🤖 Labs & Projects/       # AI-assisted data science
+│
+└── 📜 README.md
 ```
 
 ## 🚀 **Getting Started**
