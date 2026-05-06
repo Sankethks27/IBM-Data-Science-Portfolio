@@ -20,7 +20,7 @@
 Welcome to my comprehensive portfolio documenting the completion of the **IBM Data Science Professional Certificate**! This repository showcases hands-on projects, labs, and assignments covering the complete data science workflow from data collection to predictive modeling and interactive visualization.
 
 <p float="left">
-    <img src="https://github.com/Willie-Conway/IBM-Data-Science-Portfolio/blob/700a4e0bdccc05a8b89222fc8cb823fbcdafa1a1/Images/Build%20a%20multiple%20linear%20regression%20model.png" width="300" />
+    <img src="https://github.com/Sanketh Ks/IBM-Data-Science-Portfolio/blob/700a4e0bdccc05a8b89222fc8cb823fbcdafa1a1/Images/Build%20a%20multiple%20linear%20regression%20model.png" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Science-Portfolio/blob/700a4e0bdccc05a8b89222fc8cb823fbcdafa1a1/Images/Creating%20the%20Visual%20Plot.png" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Science-Portfolio/blob/700a4e0bdccc05a8b89222fc8cb823fbcdafa1a1/Images/Explore%20and%20select%20features.png" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Science-Portfolio/blob/700a4e0bdccc05a8b89222fc8cb823fbcdafa1a1/Images/Histograms.png" width="300" />
