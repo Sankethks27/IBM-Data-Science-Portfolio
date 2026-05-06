@@ -1,6 +1,12 @@
 # 📊 IBM Data Science Professional Certificate Portfolio
 
-![IBM Data Science](https://images.credly.com/size/680x680/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png)
+<p align="center">
+  <img src="https://github.com/Sankethks27/IBM-Data-Analyst-Portfolio/blob/main/IBM%20Data%20Analyst%20Professional%20Certificate/IBM%20Data%20Analyst%20Professional%20Certificate.jpg" width="650">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Sankethks27/IBM-Data-Analyst-Portfolio/blob/main/IBM%20Data%20Analyst%20Professional%20Certificate/IBM%20Data%20Analyst%20Professional%20Certificate%20-%20Credly.png" width="220">
+</p>
 
 ![IBM Data Science](https://img.shields.io/badge/IBM-Data%20Science-FF6B35?style=for-the-badge&logo=ibm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
